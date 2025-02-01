@@ -2,16 +2,7 @@
 
 Take a look at a complete project for developing a fraud detection system using ml. The project uses Python along with libraries like `pandas`, `scikit-learn`, and `Flask` to build, train, and deploy a model that detects fraudulent transactions.
 
-flowchart TD
-    A[Data Sources<br>(e.g., Kaggle)] --> B[Raw Data<br>(data/raw/)]
-    B --> C[Data Preprocessing<br>(src/data_preprocessing.py)]
-    C --> D[Feature Engineering<br>(src/feature_engineering.py)]
-    D --> E[Data Split & Preparation]
-    E --> F[Model Training & Evaluation<br>(src/model.py & src/main.py)]
-    F --> G[Trained Model<br>(models/)]
-    G --> H[API Deployment<br>(app.py)]
-    H --> I[Prediction<br>(/predict endpoint)]
-
+![diagram drawio](https://github.com/user-attachments/assets/24cb87ee-5d55-435f-a37d-e385b5083723)
 
 ## Installation
 
