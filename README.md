@@ -9,7 +9,7 @@ Take a look at a complete project for developing a fraud detection system using 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/fraud_detection_project.git
+   git clone https://github.com/yassnemo/fraud_detection_project.git
    cd fraud_detection_project
    ```
 
